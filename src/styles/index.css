@@ -1,0 +1,289 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+  /*background-image: url('../images/boardwalk.gif');*/
+background-color: black;
+
+}
+
+
+
+
+nav {
+  /*margin-top: 30px;
+margin-bottom: 30px;*/
+border: 6px solid white;
+border-radius: 5px;
+padding-bottom: 0px;
+}
+.text_nav {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 3px;
+  padding-bottom: 16px;
+}
+.text_nav:hover {
+  color: orange;
+  border: 4px solid white;
+  background-color: white;
+}
+.sza_h1 {
+  background-image: url('../images/boardwalk.gif');
+  background-position: center;
+  background-size: cover;
+  padding: 0%;
+  margin: 0%;
+}
+.our_pink {
+  font-size: 50px;
+  color: rgb(215, 73, 176);
+  bac
+  text-shadow: 15px solid white;
+}
+.pic_group {
+  /*border: 6px solid black;*/
+}
+
+.dress_1 {
+  border: 7px solid rgb(215, 73, 176);
+  width: 400px;
+  height: 400px;
+
+  }
+
+.dress_5 {
+  border: 7px solid rgb(215, 73, 176);
+  width: 400px;
+  height: 400px;
+
+
+}
+.dress_7 {
+  border: 7px solid rgb(215, 73, 176);
+  width: 400px;
+  height: 400px;
+
+
+}
+.dress_8 {
+  border: 7px solid rgb(215, 73, 176);
+  width: 400px;
+  height: 400px;
+
+
+
+}
+ .dress_9  {
+   border: 7px solid rgb(215, 73, 176);
+   width: 400px;
+   height: 400px;
+
+ }
+.body {
+  /*border: 7px solid black;*/
+}
+.juice {
+  /*border: 7px solid black;*/
+  background-image: url('../images/home_photo.png');
+  border: 4px solid white;
+}
+.access {
+  width: 300px;
+  border: 4px solid white;
+}
+.beauty {
+  width: 300px;
+  border: 4px solid white;
+
+}
+.rompers {
+  width: 300px;
+  border: 4px solid white;
+
+}
+.jackets {
+  width: 300px;
+  border: 4px solid white;
+
+}
+.photos {
+  padding-top: 40px;
+
+}
+.footer{
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  padding: 50px;
+}
+.volume {
+  color: white;
+}
+.red {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+
+
+
+}
+.jean {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+
+}
+.black {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+
+}
+.black_heel {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+
+}
+.net {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+
+}
+.gray {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+
+}
+.red:hover{
+  width: 350px;
+}
+.gray:hover{
+  width: 350px;
+}
+.net:hover{
+  width: 350px;
+}
+.black:hover{
+  width: 350px;
+}
+.jean:hover{
+  width: 350px;
+}
+.black_heel:hover{
+  width: 350px;
+}
+.shoes_header {
+  color: white;
+  font-family: 'Amatic SC', cursive;
+font-size: 50px;
+}
+.faves{
+  font-family: 'Amatic SC', cursive;
+  font-size: 70px;
+  color: white;
+  text-align: center;
+}
+.red_glasses {
+  width: 300px;
+  border: 4px solid red;
+  margin: 15px;
+  border-radius: 100px;
+
+
+}
+.white_glasses {
+  width: 300px;
+  border: 4px solid white;
+  margin: 15px;
+  border-radius: 100px;
+
+
+}
+.cheetah_glasses {
+  width: 300px;
+  border: 4px solid rgb(71, 56, 29);
+  margin: 15px;
+  border-radius: 100px;
+
+}
+.red_glasses:hover {
+  width: 350px;
+  border: 4px solid red;
+  margin: 15px;
+
+}
+.white_glasses:hover {
+  width: 350px;
+  border: 4px solid white;
+  margin: 15px;
+
+}
+.cheetah_glasses:hover {
+  width: 350px;
+  border: 4px solid rgb(71, 56, 29);
+  margin: 15px;
+
+}
+.info {
+  color: black;
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive;
+border: 5px solid rgb(71, 56, 29);
+background-color: white;
+width: 400px;
+text-align: center;
+border-radius: 100px;
+}
+.cheetahh_glasses {
+  display: flex;
+align-items: center;
+background-image: url('../images/thumb.jpg');
+border: 6px solid white;
+}
+.button {
+  height: 50px;
+  border: 4px solid black;
+  background-color: rgb(209, 185, 85);
+  font-size: 30px;
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+
+}
+table {border: 1px solid white;
+       width: 50%;
+       color: white;
+       font-family: 'Amatic SC', cursive;
+
+       border-collapse: collapse;
+       margin-bottom: 10px;
+}
+#tabletwo {border: 1px solid white;
+       width: 80%;
+       border-collapse: collapse;
+       margin-bottom: 10px;
+}
+td, th {padding: 5px;
+    border:1px solid white;
+    border-color: white;
+    text-align: center;
+    font-size: 30px;
+}
+h3 {
+  color: white;
+  font-family: 'Amatic SC', cursive;
+font-size: 40px;
+font-family: 'Amatic SC', cursive;
+
+
+}
